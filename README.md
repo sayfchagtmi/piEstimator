@@ -22,3 +22,8 @@ sh main.sh $[10**5]
 
 <img src="example/ShellOutput.png"
      style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
+
+* The result for n = 10⁶ is:
+
+<img src="example/ShellOutput2.png"
+     style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
